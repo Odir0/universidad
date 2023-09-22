@@ -1,0 +1,19 @@
+body{
+    background-image: url("fondo.jpg");
+    background-repeat: no-repeat;
+    background-attachment:  fixed;
+    background-size: 100% 100%;
+    color: #FFFFFF;
+}
+img{
+    width: 4cm;
+    height: 4cm;
+    position: absolute;
+    top: 1.8cm;
+    left: 93%;
+    transform: translate(-50% , -50%);
+}
+th, td{
+    border: 1px solid black;
+    border-radius: 10px;
+}
